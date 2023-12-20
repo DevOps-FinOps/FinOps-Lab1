@@ -45,15 +45,25 @@ SendPulse - сервис  по отправке email, sms и веб-уведо�
 Mail.Ru Cloud Solutions - позволяет отправлять сообщения и уведомления между HTTP-точками.
 # Сопоставление
 Amazon ElastiCache - Yandex Managed Service for Redis
+
 Amazon Elasticsearch Service - Yandex Managed Elasticsearch
+
 Amazon Quantum Ledger Database - Нет российских аналогов
+
 AWS Key Management Service - Yandex Cloud KMS
+
 CloudHSM - ViPNet HSM
+
 Amazon Rekognition, Amazon Textract -	VK Vison
+
 Amazon Lex - Yandex SpeechKit
+
 AWS CodePipeline - Нет российских аналогов
+
 Amazon Simple Email Service - SendPulse
-Amazon Simple Notification Service - Mail.Ru Cloud Solutions 
+
+Amazon Simple Notification Service - Mail.Ru Cloud Solutions
+
 # Таблица биллинга
 | Service Usage Type                                                                                                                                                                                                                    | Product Code      | Usage Type               |  [lineItem/Operation] | lineItem/LineItemDescription | Russian Analogue                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------------|-----------------------|------------------------------|--------------------------------------------|
